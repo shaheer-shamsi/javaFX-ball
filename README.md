@@ -25,5 +25,5 @@ Scenes and Transitions: The game utilizes scenes and transitions to create a sea
 Java is currently one of the most broadly used fashionable-cause programming languages. Developers continually choose to develop games in a programming language that supports multithreading and uses OOP concepts for reusable code. Unlike different programming languages, Java allows to port applications from one platform to other platforms seamlessly.
 
 
-# How was proj-HMS developed?
+# How was javaFX-ball developed?
 The project was made using JavaFX and OpenJDK. It uses various .java files for its classes, interfaces, abstract classes. It was made keeping in mind all concepts of Object Oriented Programming in JAVA. "shaheer-shamsi" acted as the team leader during the development of javaFX-ball.
